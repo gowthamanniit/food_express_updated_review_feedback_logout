@@ -1,0 +1,16 @@
+#Sun Oct 04 22:10:21 IST 2026
+base.0=E\:\\projects\\fooddelivery cccpt login feedback and reviews\\FoodExpress\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=E\:\\projects\\fooddelivery cccpt login feedback and reviews\\FoodExpress\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=E\:\\projects\\fooddelivery cccpt login feedback and reviews\\FoodExpress\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.3=E\:\\projects\\fooddelivery cccpt login feedback and reviews\\FoodExpress\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.4=E\:\\projects\\fooddelivery cccpt login feedback and reviews\\FoodExpress\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=4/classes.dex
+path.3=6/classes.dex
+path.4=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
